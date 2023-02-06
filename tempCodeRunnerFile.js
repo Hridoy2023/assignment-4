@@ -1,0 +1,1 @@
+     if(totalDiamond>=2000){
